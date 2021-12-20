@@ -8,6 +8,6 @@ a screenshot of the cart page:
 ![Hello, world! - Google Chrome 12_20_2021 9_37_22 PM](https://user-images.githubusercontent.com/62280328/146802466-7ff57424-db3b-492a-af49-e5352992933d.png)
 also an screenshot of the database:
 ![Hello, world! - Google Chrome 12_20_2021 9_37_51 PM](https://user-images.githubusercontent.com/62280328/146802626-a4fe4a37-cf58-4a89-96fa-1131617040dd.png)
-
+This is a very basic e-commerce website developed from zero. django and bootstrap was used in this project. it places order,shows cart ,amount of order. also has a login,signup system. it counts prices of purchase . keeps track of order . 
 
 
